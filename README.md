@@ -1,6 +1,7 @@
 # winamp_remote
 Control remoto por RS232 para Winamp
-Controlador IR Winamp de bajo costo	
+Controlador IR Winamp de bajo costo
+
 Este proyecto aquí presenta la forma más básica de transmisión de datos por infrarrojos (IR). Los rayos IR se utilizan principalmente en los controles remotos para el televisor, el reproductor de DVD, el control del calentador/aire acondicionado, etc. ya que a veces soy demasiado perezoso para caminar hasta la PC y cambiar el volumen, las pistas y otras cosas. Oh, sí, mi computadora también es mi sistema de cine en casa. Así que me digo, ¿por qué no hacerlo desde lejos, donde puedo seguir leyendo los periódicos mientras escucho música? =P
 
 Comencé con la búsqueda de un control remoto antiguo adecuado que ya no quería.
